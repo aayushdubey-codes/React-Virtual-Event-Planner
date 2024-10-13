@@ -54,14 +54,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Contact
 
-For inquiries or support, please reach out at [your.email@example.com](mailto:your.email@example.com).
+For inquiries or support, please reach out at [aayush200dubey@gmail.com](mailto:aayush200dubey@gmail.com).
 
 ---
 
 ## 🌐 Additional Links
 
-- **[Live Demo](http://your-live-demo-link.com)**
-- **[LinkedIn](http://your-linkedin-profile.com)**
-- **[Portfolio](http://your-portfolio-website.com)**
+- **[Live Demo](https://aayush-virtual-event-planner.netlify.app/)**
+- **[LinkedIn](http://linkedin.com/in/aayushdubey-codes)**
+- **[Portfolio](http://aayushdubeyportfolio.netlify.app)**
 
 Thank you for checking out **React Virtual Event Planner**! We hope it empowers you to host unforgettable virtual events with ease. Happy planning! 🎉
