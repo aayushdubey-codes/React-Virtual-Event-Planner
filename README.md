@@ -65,4 +65,3 @@ For inquiries or support, please reach out at [your.email@example.com](mailto:yo
 - **[Portfolio](http://your-portfolio-website.com)**
 
 Thank you for checking out **React Virtual Event Planner**! We hope it empowers you to host unforgettable virtual events with ease. Happy planning! 🎉
-```
