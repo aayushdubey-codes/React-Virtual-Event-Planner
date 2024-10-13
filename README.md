@@ -101,4 +101,3 @@ For inquiries or support, please reach out at [your.email@example.com](mailto:yo
 Thank you for checking out **React Virtual Event Planner**! We hope it empowers you to host unforgettable virtual events with ease. Happy planning! 🎉
 ```
 
-Feel free to replace the placeholder links with your actual URLs!
