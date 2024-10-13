@@ -2,6 +2,9 @@
 
 Welcome to **React Virtual Event Planner**, a comprehensive and user-friendly application designed to streamline the planning and management of virtual events. Built using modern React features, this project serves as a versatile solution for event organizers looking to create seamless online experiences.
 
+## ✨ Some Glimpse
+![Project Logo](https://drive.google.com/file/d/1o3IZWwuOAlAvjkrylmAqGvKunNyvW44p/view?usp=drive_link) <!-- Replace with your image URL -->
+
 ## 🚀 Features
 
 - **Intuitive User Interface:** Enjoy a sleek, modern design that ensures ease of navigation for both event planners and attendees.
